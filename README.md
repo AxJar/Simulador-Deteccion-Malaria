@@ -1,7 +1,7 @@
 # Simulador-Deteccion-Malaria
 Proyecto Final 2do Parcial / 2do Semestre / ITD
 # Instituto Tecnologico y de Estudios Superiores Monterrey
-RETO
+## RETO
 Debes crear una simulación computacional de un campo eléctrico como los que se usan en Dielectroforesis 
 para diagnosticar malaria. La pantalla debe mostrar dos electrodos con forma de placas planas, paralelas 
 y de carga opuesta. El usuario podrá modificar el tamaño de una de las placas, y en la pantalla se graficará, 
