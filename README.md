@@ -9,6 +9,6 @@ con flechas o líneas de fuerza, el campo eléctrico no uniforme que las placas 
 recuadro de la simulación, el usuario podrá especificar las coordenadas (x,y,z) de un punto entre las placas,
 y se debe mostrar en ese mismo recuadro los valores de las componentes (Ex,Ey,Ez) del campo eléctrico en ese punto.
 ## Colaboradores
-Axel Jarquin Morga
-Juan Pablo Pérez Durán
+Axel Jarquin Morga /
+Juan Pablo Pérez Durán /
 Joel Solano Ocampo
