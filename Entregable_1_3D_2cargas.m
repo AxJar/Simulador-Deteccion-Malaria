@@ -24,6 +24,7 @@ caras = [1 5 8 4; %c1
          5 6 7 8; %c5
          1 2 3 4]; %c6
 
+
      
 %VERTICES Y CARAS DE LÁMINA (-)
            % x       y     z
