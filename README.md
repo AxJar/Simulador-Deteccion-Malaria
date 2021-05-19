@@ -1,4 +1,4 @@
-# Simulador-Deteccion-Malaria
+# Simulador_Deteccion_Malaria
 ## Instituto Tecnologico y de Estudios Superiores Monterrey
 Proyecto Final 2do Parcial / 2do Semestre / ITD
 
